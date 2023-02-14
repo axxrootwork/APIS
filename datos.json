@@ -1,0 +1,9 @@
+[
+    {"Producto": "Laptop", "Precio": 180, "Marca": "Dell"},
+    {"Producto": "Celular", "Precio": 200, "Marca": "Hawei"},
+    {"Producto": "Pantalla", "Precio": 380, "Marca": "LG"},
+    {"Producto": "Celular", "Precio": 400, "Marca": "Apple"},
+    {"Producto": "Radio", "Precio": 980, "Marca": "Raxio"},
+    {"Producto": "Laptop", "Precio": 230, "Marca": "HP"},
+    {"Producto": "Celular", "Precio": 500, "Marca": "Apple"}
+]
